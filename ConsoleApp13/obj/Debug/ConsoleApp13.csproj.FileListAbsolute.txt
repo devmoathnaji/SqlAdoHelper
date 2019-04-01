@@ -1,0 +1,12 @@
+C:\Users\Moath\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\Moath\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\Moath\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\Moath\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\EntityFramework.dll
+C:\Users\Moath\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moath\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\EntityFramework.xml
+C:\Users\Moath\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moath\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csprojAssemblyReference.cache
+C:\Users\Moath\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\Moath\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CopyComplete
+C:\Users\Moath\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\Moath\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
